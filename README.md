@@ -31,4 +31,4 @@ Danny has shared with you 3 key datasets for this case study:
 ![CS1 2](https://user-images.githubusercontent.com/52796809/222443723-6d106bc0-29cd-4e9e-8642-c53e02200c20.png)
 
 
-View my solution [here](https://github.com/rushalijain06/8-week-SQL-Challenge/blob/main/Case%20Study%20%231-Dannys%20Diner.sql)
+View my solution for Case Study #1 [here](https://github.com/rushalijain06/8-week-SQL-Challenge/blob/main/Case%20Study%20%231-Dannys%20Diner.sql)
